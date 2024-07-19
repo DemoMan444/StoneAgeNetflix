@@ -1,0 +1,12 @@
+/* Maybe delete later if not using*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Inter', sans-serif;
+    color: whitesmoke;
+    background-image: linear-gradient(rgb(125, 121, 121), rgb(114, 110, 110));
+    font-size: small;
+    
+  }
